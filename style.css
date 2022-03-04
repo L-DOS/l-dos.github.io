@@ -286,7 +286,7 @@ button {
 button:hover {
     opacity: .80;
     font-weight: bold;
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 
 footer {
